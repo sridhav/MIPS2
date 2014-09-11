@@ -1,0 +1,12 @@
+LOAD $R1 I
+BEQ $R2 J
+LOAD $R1 H
+SUB $R1 G
+STORE F $R1
+
+J Exit
+True : LOAD $R1 H
+ADD $R1 G
+STORE F $R1
+
+Exit :

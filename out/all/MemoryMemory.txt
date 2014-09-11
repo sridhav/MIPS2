@@ -1,0 +1,28 @@
+ADD M1, B, C
+MUL M2, M1, D
+SUB A, M2, E
+ADD M1, G, H
+ADD M2, I, J
+SUB F, M1, M2
+MUL M1, 4, I
+ADD z, A, M1
+BEQ I J True
+SUB F, G, H
+
+J Exit
+True : ADD F, G, H
+
+Exit :
+loop :MUL M1, 4, I
+ADD z, A, M1
+loop :ADD I, I, J
+loop :BNE I H True
+
+J Exit
+True : J loop
+Exit :
+ADD M1, B, C
+MUL A, M1, D
+SUB M1, B, E
+MUL M2, H, M1
+ADD G, A, M2

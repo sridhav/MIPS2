@@ -1,0 +1,15 @@
+loop :LOAD $R1 4
+MUL $R1 I
+ADD $R1 A
+STORE z $R1
+LOAD $R1 z
+STORE G $R1
+loop :LOAD $R1 J
+ADD $R1 I
+STORE I $R1
+loop :LOAD $R1 I
+BNE $R2 H
+
+J Exit
+True : J loop
+Exit :

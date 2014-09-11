@@ -1,0 +1,80 @@
+
+
+#0#************ Core 0***********
+MOV M2 C
+ADD M4 I
+MOV G M2
+MOV F M2
+loop :MOV M2 J
+ADD M2 B
+***************************
+
+
+#1#************ Core 1***********
+ADD M2 B
+SUB M3 M4
+BEQ I J
+Exit :
+ADD M2 I
+MUL D M2
+***************************
+
+
+#2#************ Core 2***********
+MUL D M2
+MOV F M3
+MOV M3 H
+loop :MOV M2 4
+MOV I M2
+MOV A D
+***************************
+
+
+#3#************ Core 3***********
+SUB D E
+MOV M2 4
+SUB G M3
+MUL I M2
+loop :BNE I H
+MOV M3 H
+***************************
+
+
+#4#************ Core 4***********
+MOV A D
+MUL I M2
+MOV F G
+ADD I A
+J Exit
+SUB B E
+***************************
+
+
+#5#************ Core 5***********
+MOV M3 H
+ADD I A
+J Exit
+MOV z I
+True : J loop
+MUL B M3
+***************************
+
+
+#6#************ Core 6***********
+ADD M3 G
+MOV z I
+True : MOV M2 H
+MOV M2 z
+Exit :
+ADD B A
+***************************
+
+
+#7#************ Core 7***********
+MOV M4 J
+MOV M2 z
+ADD M2 G
+MOV G M2
+MOV M2 C
+MOV G B
+***************************

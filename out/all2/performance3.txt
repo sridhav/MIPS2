@@ -1,0 +1,553 @@
+Operator Size : 8 Bits
+Register Size :5 Bits
+Memory Size :16 Bits
+Speed up Increment :30 %
+===========================================
+Load Store Performance
+*****Core*****0
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+*****Core*****1
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+*****Core*****2
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+*****Core*****3
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+*****Core*****4
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+*****Core*****5
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+*****Core*****6
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+*****Core*****7
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access :0
+Clock Cycles: 0.0
+
+Speed Up Vals
+******* Core 0 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 1 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 2 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 3 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 4 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 5 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 6 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 7 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+
+
+Memory Memory Performance
+*****Core*****0
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****1
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****2
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****3
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****4
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****5
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****6
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****7
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+
+Speed Up Vals
+******* Core 0 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 1 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 2 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 3 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 4 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 5 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 6 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 7 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+
+
+Stack Performance
+*****Core*****0
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****1
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****2
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****3
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****4
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****5
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****6
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****7
+Instruction Count 0
+No of Bits for core: 0
+Memory Access : 0
+Clock Cycles: 0.0
+
+Speed Up Vals
+******* Core 0 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 1 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 2 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 3 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 4 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 5 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 6 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 7 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+
+
+Accumulator Performance
+*****Core*****0
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****1
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****2
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****3
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****4
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****5
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****6
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****7
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+
+Speed Up Vals
+******* Core 0 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 1 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 2 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 3 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 4 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 5 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 6 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 7 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+
+
+Two Address Performance
+*****Core*****0
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****1
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****2
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****3
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****4
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****5
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****6
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****7
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+
+Speed Up Vals
+******* Core 0 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 1 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 2 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 3 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 4 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 5 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 6 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 7 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+
+
+GPR 1 Performance
+*****Core*****0
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****1
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****2
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****3
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****4
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****5
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****6
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+*****Core*****7
+Instruction Count 0
+CPI value :2.0(Clock cycles per Instruction)
+No of Bits :0
+Memory Access : 0
+Clock Cycles: 0.0
+
+Speed Up Vals
+******* Core 0 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 1 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 2 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 3 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 4 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 5 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 6 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN
+******* Core 7 *******
+Memory Speed Up for 0 Instructions :NaN
+Branch Speed Up for 0 Instructions :NaN
+Oper Speed Up for 0 Instructions :NaN
+Jump Speed Up for 0 Instructions :NaN

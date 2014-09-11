@@ -1,0 +1,13 @@
+LOAD I
+BEQ J
+LOAD H
+SUB G
+NEG
+STORE F
+
+J Exit
+True : LOAD H
+ADD G
+STORE F
+
+Exit :

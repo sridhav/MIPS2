@@ -1,0 +1,6 @@
+MOV M2 4
+MUL I M2
+ADD I A
+MOV z I
+MOV M2 z
+MOV G M2

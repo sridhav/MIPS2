@@ -1,0 +1,10 @@
+2
+30
+A = (B + C) * D - E;
+F = (G + H) - (I + J);
+G = H + A[I];
+if (I == J) F = G + H ;else F = G - H;
+loop: G = G + A[I]; I = I + J;  if (I != H) goto loop;
+if (G < H) goto Less;
+while (Z[I] == K) I = I + J;
+A=(B+C);

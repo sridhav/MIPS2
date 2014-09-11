@@ -1,0 +1,103 @@
+
+
+#0#************ Core 0***********
+PUSH B
+PUSH G
+PUSH A
+POP G
+J Exit
+PUSH I
+PUSH J
+Exit :
+PUSH H
+***************************
+
+
+#1#************ Core 1***********
+PUSH C
+PUSH H
+PUSH 4
+PUSH I
+True : PUSH G
+MUL
+ADD
+PUSH B
+PUSH B
+***************************
+
+
+#2#************ Core 2***********
+ADD
+ADD
+PUSH I
+PUSH J
+PUSH H
+ADD
+POP I
+PUSH C
+PUSH E
+***************************
+
+
+#3#************ Core 3***********
+PUSH D
+PUSH I
+MUL
+BEQ 
+ADD
+POP z
+loop :PUSH I
+ADD
+SUB
+***************************
+
+
+#4#************ Core 4***********
+MUL
+PUSH J
+ADD
+PUSH G
+POP F
+PUSH G
+PUSH H
+PUSH D
+MUL
+***************************
+
+
+#5#************ Core 5***********
+PUSH E
+ADD
+POP z
+PUSH H
+Exit :
+PUSH z
+BNE 
+MUL
+ADD
+***************************
+
+
+#6#************ Core 6***********
+SUB
+SUB
+PUSH H
+SUB
+loop :PUSH A
+POP G
+J Exit
+POP A
+POP G
+***************************
+
+
+#7#************ Core 7***********
+POP A
+POP F
+PUSH z
+POP F
+PUSH 4
+loop :PUSH I
+True : J loop
+PUSH A
+***************************

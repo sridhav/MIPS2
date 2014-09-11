@@ -1,0 +1,5 @@
+MOV M3 H
+SUB B E
+MUL B M3
+ADD B A
+MOV G B

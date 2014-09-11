@@ -1,0 +1,11 @@
+BEQ I J
+MOV M3 H
+SUB G M3
+MOV F G
+
+J Exit
+True : MOV M2 H
+ADD M2 G
+MOV F M2
+
+Exit :

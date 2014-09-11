@@ -1,0 +1,4 @@
+MOV M2 C
+ADD M2 B
+MUL D M2
+MOV A D

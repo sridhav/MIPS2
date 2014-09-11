@@ -1,0 +1,2 @@
+ADD M1, B, C
+MUL A, M1, D

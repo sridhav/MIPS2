@@ -1,0 +1,82 @@
+
+
+#0#************ Core 0***********
+LOAD $R1 C
+ADD $R2 I
+STORE G $R1
+ADD $R1 G
+STORE G $R1
+Exit :
+ADD $R1 A
+***************************
+
+
+#1#************ Core 1***********
+ADD $R1 B
+SUB $R2 $R1
+LOAD $R1 I
+STORE F $R1
+loop :LOAD $R1 J
+LOAD $R1 C
+STORE G $R1
+***************************
+
+
+#2#************ Core 2***********
+MUL $R1 D
+STORE F $R2
+BEQ $R2 J
+Exit :
+ADD $R1 I
+ADD $R1 B
+***************************
+
+
+#3#************ Core 3***********
+SUB $R1 E
+LOAD $R1 4
+LOAD $R1 H
+loop :LOAD $R1 4
+STORE I $R1
+MUL $R1 D
+***************************
+
+
+#4#************ Core 4***********
+STORE A $R1
+MUL $R1 I
+SUB $R1 G
+MUL $R1 I
+loop :LOAD $R1 I
+STORE A $R1
+***************************
+
+
+#5#************ Core 5***********
+LOAD $R1 H
+ADD $R1 A
+STORE F $R1
+ADD $R1 A
+BNE $R2 H
+LOAD $R1 H
+***************************
+
+
+#6#************ Core 6***********
+ADD $R1 G
+STORE z $R1
+J Exit
+STORE z $R1
+J Exit
+SUB $R1 E
+***************************
+
+
+#7#************ Core 7***********
+LOAD $R2 J
+LOAD $R1 z
+True : LOAD $R1 H
+LOAD $R1 z
+True : J loop
+MUL $R1 B
+***************************

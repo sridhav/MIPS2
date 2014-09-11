@@ -1,0 +1,8 @@
+loop :MUL M1, 4, I
+ADD z, A, M1
+loop :ADD I, I, J
+loop :BNE I H True
+
+J Exit
+True : J loop
+Exit :

@@ -1,0 +1,64 @@
+Operator Size : 8 Bits
+Register Size :5 Bits
+Memory Size :16 Bits
+Speed up Increment :30 %
+CPI value :2.0(Clock cycles per Instruction)
+===========================================
+Load Store Performance
+No of Bits :347
+Memory Access :8
+Clock Cycles: 26.0
+Memory Speed Up for 8 Instructions :1.1655172413793105
+Branch Speed Up for 1 Instructions :1.0180722891566265
+Oper Speed Up for 2 Instructions :1.0368098159509203
+Jump Speed Up for 1 Instructions :1.0180722891566265
+
+
+Memory Memory Performance
+No of Bits :280
+Memory Access : 15
+Clock Cycles: 10.0
+Memory Speed Up for 0 Instructions :1.0
+Branch Speed Up for 0 Instructions :1.0
+Oper Speed Up for 2 Instructions :1.1016949152542372
+Jump Speed Up for 2 Instructions :1.1016949152542372
+
+
+Stack Performance
+No of Bits :104
+Memory Access : 8
+Clock Cycles: 26.0
+Memory Speed Up for 8 Instructions :1.1655172413793105
+Branch Speed Up for 1 Instructions :1.0180722891566265
+Oper Speed Up for 2 Instructions :1.0368098159509203
+Jump Speed Up for 1 Instructions :1.0180722891566265
+
+
+Accumulator Performance
+No of Bits :264
+Memory Access : 11
+Clock Cycles: 22.0
+Memory Speed Up for 5 Instructions :1.1171875000000002
+Branch Speed Up for 1 Instructions :1.0214285714285716
+Oper Speed Up for 2 Instructions :1.0437956204379562
+Jump Speed Up for 1 Instructions :1.0214285714285716
+
+
+Two Address Performance
+No of Bits :360
+Memory Access : 18
+Clock Cycles: 18.0
+Memory Speed Up for 4 Instructions :1.1142857142857143
+Branch Speed Up for 1 Instructions :1.0263157894736843
+Oper Speed Up for 2 Instructions :1.0540540540540542
+Jump Speed Up for 1 Instructions :1.0263157894736843
+
+
+GPR 1 Performance
+No of Bits :290
+Memory Access : 10
+Clock Cycles: 20.0
+Memory Speed Up for 5 Instructions :1.1304347826086958
+Branch Speed Up for 1 Instructions :1.0236220472440944
+Oper Speed Up for 2 Instructions :1.0483870967741935
+Jump Speed Up for 1 Instructions :1.0236220472440944

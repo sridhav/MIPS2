@@ -1,0 +1,2 @@
+MUL M1, 4, I
+ADD z, A, M1

@@ -1,0 +1,15 @@
+loop :LOAD 4
+MUL I
+ADD A
+STORE z
+LOAD z
+STORE G
+loop :LOAD J
+ADD I
+STORE I
+loop :LOAD I
+BNE H
+
+J Exit
+True : J loop
+Exit :

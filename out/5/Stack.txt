@@ -1,0 +1,20 @@
+loop :PUSH A
+PUSH 4
+PUSH I
+MUL
+ADD
+POP z
+PUSH G
+PUSH z
+POP G
+loop :PUSH I
+PUSH J
+ADD
+POP I
+loop :PUSH I
+PUSH H
+BNE 
+
+J Exit
+True : J loop
+Exit :

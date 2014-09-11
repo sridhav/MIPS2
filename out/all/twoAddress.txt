@@ -1,0 +1,51 @@
+MOV M2 C
+ADD M2 B
+MUL D M2
+SUB D E
+MOV A D
+MOV M3 H
+ADD M3 G
+MOV M4 J
+ADD M4 I
+SUB M3 M4
+MOV F M3
+MOV M2 4
+MUL I M2
+ADD I A
+MOV z I
+MOV M2 z
+MOV G M2
+BEQ I J
+MOV M3 H
+SUB G M3
+MOV F G
+
+J Exit
+True : MOV M2 H
+ADD M2 G
+MOV F M2
+
+Exit :
+loop :MOV M2 4
+MUL I M2
+ADD I A
+MOV z I
+MOV M2 z
+MOV G M2
+loop :MOV M2 J
+ADD M2 I
+MOV I M2
+loop :BNE I H
+
+J Exit
+True : J loop
+Exit :
+MOV M2 C
+ADD M2 B
+MUL D M2
+MOV A D
+MOV M3 H
+SUB B E
+MUL B M3
+ADD B A
+MOV G B

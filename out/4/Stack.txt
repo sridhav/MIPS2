@@ -1,0 +1,15 @@
+PUSH I
+PUSH J
+BEQ 
+PUSH G
+PUSH H
+SUB
+POP F
+
+J Exit
+True : PUSH G
+PUSH H
+ADD
+POP F
+
+Exit :

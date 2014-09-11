@@ -1,0 +1,6 @@
+LOAD $R1 4
+MUL $R1 I
+ADD $R1 A
+STORE z $R1
+LOAD $R1 z
+STORE G $R1
